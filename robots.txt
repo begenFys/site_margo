@@ -1,0 +1,4 @@
+User-agent: *
+Allow: *
+Host:https://zinchenki.ru
+Sitemap: https://zinchenki.ru/sitemap.xml
